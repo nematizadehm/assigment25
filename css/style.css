@@ -1,0 +1,14 @@
+body {
+    background-color: palevioletred;
+}
+#btn-new-message{
+    position: fixed;
+    bottom: 50px;
+    left: 100px;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    
+    }
+    
+    
